@@ -1,5 +1,7 @@
 # Lógica de programação
 ### Professor: Alexandre Roriz
+### Faculdade: IESB
+#### Curso: Jogos Digitais
 ### Lista Ninja 1
 
 1. Bob Nelson deseja calcular a quantidade de gasolina gasta em uma viagem usando
