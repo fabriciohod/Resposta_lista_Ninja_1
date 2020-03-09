@@ -1,0 +1,11 @@
+C:\Users\fahod\Desktop\Resposta lista Ninja 1-20200304T152427Z-001\Resposta lista Ninja 1\Q5_listaNinja\bin\Debug\netcoreapp3.1\Q5_listaNinja.exe
+C:\Users\fahod\Desktop\Resposta lista Ninja 1-20200304T152427Z-001\Resposta lista Ninja 1\Q5_listaNinja\bin\Debug\netcoreapp3.1\Q5_listaNinja.deps.json
+C:\Users\fahod\Desktop\Resposta lista Ninja 1-20200304T152427Z-001\Resposta lista Ninja 1\Q5_listaNinja\bin\Debug\netcoreapp3.1\Q5_listaNinja.runtimeconfig.json
+C:\Users\fahod\Desktop\Resposta lista Ninja 1-20200304T152427Z-001\Resposta lista Ninja 1\Q5_listaNinja\bin\Debug\netcoreapp3.1\Q5_listaNinja.runtimeconfig.dev.json
+C:\Users\fahod\Desktop\Resposta lista Ninja 1-20200304T152427Z-001\Resposta lista Ninja 1\Q5_listaNinja\bin\Debug\netcoreapp3.1\Q5_listaNinja.dll
+C:\Users\fahod\Desktop\Resposta lista Ninja 1-20200304T152427Z-001\Resposta lista Ninja 1\Q5_listaNinja\bin\Debug\netcoreapp3.1\Q5_listaNinja.pdb
+C:\Users\fahod\Desktop\Resposta lista Ninja 1-20200304T152427Z-001\Resposta lista Ninja 1\Q5_listaNinja\obj\Debug\netcoreapp3.1\Q5_listaNinja.csprojAssemblyReference.cache
+C:\Users\fahod\Desktop\Resposta lista Ninja 1-20200304T152427Z-001\Resposta lista Ninja 1\Q5_listaNinja\obj\Debug\netcoreapp3.1\Q5_listaNinja.AssemblyInfoInputs.cache
+C:\Users\fahod\Desktop\Resposta lista Ninja 1-20200304T152427Z-001\Resposta lista Ninja 1\Q5_listaNinja\obj\Debug\netcoreapp3.1\Q5_listaNinja.AssemblyInfo.cs
+C:\Users\fahod\Desktop\Resposta lista Ninja 1-20200304T152427Z-001\Resposta lista Ninja 1\Q5_listaNinja\obj\Debug\netcoreapp3.1\Q5_listaNinja.dll
+C:\Users\fahod\Desktop\Resposta lista Ninja 1-20200304T152427Z-001\Resposta lista Ninja 1\Q5_listaNinja\obj\Debug\netcoreapp3.1\Q5_listaNinja.pdb
