@@ -1,6 +1,6 @@
-#Lógica de programação
-###Professor: Alexandre Roriz
-###Lista Ninja 1
+# Lógica de programação
+### Professor: Alexandre Roriz
+### Lista Ninja 1
 
 1. Bob Nelson deseja calcular a quantidade de gasolina gasta em uma viagem usando
 o seu carro que faz a média 12 Km/l. Para isso ele pediu a sua ajuda para
@@ -15,7 +15,7 @@ Quantidade de combustível: 70.83 litros
 2. Desenvolva um programa que receba duas posições em um plano cartesiano
 representadas pelos pontos p1 (x1, y1) e p2(x2, y2) e, calcule a distância entre eles
 seguindo a seguinte fórmula:
-Distância = $\sqrt{(x2 - x1)² + (y1 - y2)²}$
+Distância = ![equation](http://www.sciweavers.org/upload/Tex2Img_1583794300/render.png)
 Exemplo: p1 (1.0, 7.0); p2(5.0, 9.0); distância = 4.47
 
 3. Desenvolva um programa que leia um número inteiro e calcule a quantidade mínima de
